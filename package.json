@@ -1,6 +1,6 @@
 {
   "name": "wonderbly-find-node-modules-down",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Find all child node_modules directories",
   "main": "index.js",
   "scripts": {
